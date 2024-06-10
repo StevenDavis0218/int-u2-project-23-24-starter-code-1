@@ -7,13 +7,31 @@
 body {
     color: black;
     text-align: center;
-    background-color: white;
+    background-color: orange;
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color:black;
     text-align: center;
-    background-color: black;
+    border: black solid 4px;
+    padding: 10px;
+    margin: 25px;
+    width: 400px;
+    
+    
+}
+
+h1{
+    color: black;
+    border: ;
+}
+    
+.picture {
+    float: right;
+    position: relative;
+    top: -600px;
+    width: 750px;
+    right: 30px;
 }
